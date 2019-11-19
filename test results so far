@@ -1,0 +1,8 @@
+Hi Juek,
+I have successfully tested a few applications that required jquery and js, even css code. Usually the css code is preferable to be entered in the template itself, in the head. But for the short css code it worked.
+What I don't like about codemirror is that sometimes there are strange problems, see also
+https://github.com/JedWatson/react-codemirror/issues/91
+It's not because of the plugin but because of the codemirror.
+I will test other applications to see how the plugin behaves, but so far it has been excellent!
+Cheers,
+Florin
